@@ -1,0 +1,13 @@
+details to open an account:
+    name
+    account number
+    initial balance
+
+- take input from user for the action he/she wants to perform. with validations.
+- checked for the validity of acc no, initial balance and name. with validations.
+- display the account numbers if there are any. else show msg no accounts found.
+
+- account creation done ✅
+- account Numbers display ✅
+next:
+withdrawal, deposit.
